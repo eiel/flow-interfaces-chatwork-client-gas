@@ -1,0 +1,13 @@
+{
+  "name": "flow-interfaces-chatwork-client-gas",
+  "version": "0.0.1",
+  "description": "flow interfaces chatwork client for gas",
+  "repository": "https://github.com/eiel/flow-interfaces-chatwork-client-gas",
+  "author": "Tomohiko Himura",
+  "files": ["definitions"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eiel/flow-interfaces-chatwork-client-gas/issues"
+  },
+  "homepage": "https://github.com/eiel/flow-interfaces-chatwork-client-gas#readme"
+}
